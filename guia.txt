@@ -9,3 +9,22 @@ computador y un buen manejo de la terminal. Te invitamos a compartir tu
 progreso en el sistema de discusiones.
 
 Julian Duque
+--------------------------------------------------------------------------------
+(2)
+¿Qué es Node.js?
+Node es una plataforma OpenSource para desarrollar aplicaciones, que está enfocada
+en tiempo real. Es similar a la máquina virtual de Java.
+
+Node es muy útil para aplicaciones que tienen alta concurrencia. Utiliza JavaScript
+como lenguaje de programación y patrones de programación asíncronos y orientados
+a objetos.
+
+¿Por qué decimos que Node.js es una plataforma simple?
+
+Es una librería estándar es donde el código va a morir. Mantener una plataforma
+estándar actualizada puede ser un problema.
+npm y la modularidad de Node abre un ecosistema de trabajo muy grande.
+El modelo de trabajo Open Source beneficia mucho a la plataforma.
+Node existe gracias a un componente principal que se llama V8, que es el que nos
+permite utilizar JavaScript del lado del servidor.
+--------------------------------------------------------------------------------
